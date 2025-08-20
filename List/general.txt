@@ -1,0 +1,40 @@
+n8nboy Chrome Extension - Commercial License
+
+Copyright (c) 2025 Ken Kai. All rights reserved.
+
+This software is protected by copyright law and international treaties.
+Unauthorized reproduction or distribution of this program, or any portion
+of it, may result in severe civil and criminal penalties, and will be
+prosecuted to the maximum extent possible under the law.
+
+GRANT OF LICENSE:
+Subject to the terms of this license, Ken Kai grants you a limited,
+non-exclusive, non-transferable license to use this software for personal
+or internal business purposes only.
+
+RESTRICTIONS:
+- You may not copy, modify, or distribute this software
+- You may not reverse engineer, decompile, or disassemble this software
+- You may not remove or alter any copyright notices
+- Commercial redistribution is strictly prohibited
+- Creating derivative works is forbidden
+
+TERMINATION:
+This license is effective until terminated. Your rights under this license
+will terminate automatically without notice if you fail to comply with any term.
+
+WARRANTY DISCLAIMER:
+This software is provided "as is" without warranty of any kind, either
+express or implied, including but not limited to the implied warranties
+of merchantability and fitness for a particular purpose.
+
+By using this software, you agree to be bound by the terms of this license.
+If you do not agree to these terms, you must immediately cease using the
+software and destroy all copies in your possession.
+
+CONTACT INFORMATION:
+Email: ken@kenkais.com
+Website: https://kenkais.com
+Business: Ken Kai
+
+License Key: N8N-4844C8E5-FD803885-DF016D99
