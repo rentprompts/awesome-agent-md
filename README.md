@@ -6,7 +6,7 @@ An Awesome lists of real‑world **AGENTS.md** formats, templates, guides and to
 Resources
 
 ## Contents
-- [Universal Sample](#Universal-sample)
+- [Universal Sample](#universal-sample)
 - [Official Samples](#official-samples)
 - [Community Examples](#community-examples)
 - [Templates](#templates)
