@@ -1,7 +1,9 @@
 # Awesome Agents.md
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An curated list of real‑world **AGENTS.md** formats, templates, guides and tools for agents‑based projects. Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
+An Awesome list of real‑world **AGENTS.md** formats, templates, guides and tools for agents‑based projects, Already used by over 20k open-source projects. Contributions welcome! are [contributing guidelines](CONTRIBUTING.md) first.
+
+Resources
 
 ## Contents
 - [Universal Sample](#Universal-sample)
