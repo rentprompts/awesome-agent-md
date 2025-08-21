@@ -40,12 +40,12 @@ Resources
 - [OpenAI Codex – Official AGENTS.md](https://github.com/openai/codex/blob/main/AGENTS.md) – Root‑level file showing tests, environment and safety rules.
 
 ## Templates
-- [Advanced AGENTS.md](list/templates/advanced.md) – A feature‑rich template with testing, safety and style rules.
-- [Minimal AGENTS.md](list/templates/minimal.md) – A concise, no‑frills starting point.
+- [Advanced AGENTS.md](List/templates/advanced.md) – A feature‑rich template with testing, safety and style rules.
+- [Minimal AGENTS.md](List/templates/minimal.md) – A concise, no‑frills starting point.
 
 ## Real‑world Samples
-- [Next.js Shop](list/nextjs-shop.md) – Monorepo TypeScript e‑commerce demo with pnpm workspaces.
-- [Rust API Skeleton](list/rust-api.md) – Axum‑based REST API showcasing integration tests and nix setup.
+- [Next.js Shop](List/nextjs-shop.md) – Monorepo TypeScript e‑commerce demo with pnpm workspaces.
+- [Rust API Skeleton](List/rust-api.md) – Axum‑based REST API showcasing integration tests and nix setup.
 
 ## Guides & Articles
 - [A Quick Look at ChatGPT Codex – Apidog Blog](https://apidog.com/blog/openai-launches-chatgpt-codex-an-ai-coding-agent) – Visual overview with a five-point minimal template.
