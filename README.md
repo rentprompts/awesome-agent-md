@@ -12,7 +12,7 @@ Resources
 - [Guides & Articles](#guides--articles)
 - [Tools](#tools)
 
-## Universal Samples
+## Universal Sample
 
 ```markdown
 ## Dev environment tips
