@@ -46,6 +46,7 @@ Resources
 ## Real‑world Samples
 - [Next.js Shop](List/nextjs-shop.md) – Monorepo TypeScript e‑commerce demo with pnpm workspaces.
 - [Rust API Skeleton](List/rust-api.md) – Axum‑based REST API showcasing integration tests and nix setup.
+- [MicroSoft-poml](https://github.com/microsoft/poml/blob/main/AGENTS.md)-Prompt Orchestration Markup Language
 
 ## Guides & Articles
 - [A Quick Look at ChatGPT Codex – Apidog Blog](https://apidog.com/blog/openai-launches-chatgpt-codex-an-ai-coding-agent) – Visual overview with a five-point minimal template.
