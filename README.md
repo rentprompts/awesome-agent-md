@@ -53,11 +53,10 @@ Resources
 - [Create an AGENTS.md file in your repo – Medium (Joe Njenga)](https://medium.com/@joe.njenga/openai-new-codex-agent-the-fully-agentic-coding-best-coding-agent-8fae9810a888) – Shares a sub-30 line minimal template with examples.
 - [OpenAI Codex: A Guide With 3 Practical Examples – DataCamp](https://www.datacamp.com/tutorial/openai-codex) – Step-by-step tutorial including three AGENTS.md samples.
 - [The killer feature of OpenAI Codex is parallelism – Medium (Morgan Linton)](https://medium.com/@morganlinton/the-killer-feature-of-openai-codex-is-parallelism-3918886db5cc) – Highlights AGENTS.md as key to Codex success.
-- [Writing effective AGENTS.md files](https://blog.example.com/agents-md) – Practical tips to accelerate agent onboarding.
+- [Writing effective AGENTS.md format](https://agents.md) – Practical tips to accelerate agent onboarding.
 
 ## Tools
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
-- [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
 
 ## License
 This work is released under **CC0‑1.0**. See [LICENSE](LICENSE).
